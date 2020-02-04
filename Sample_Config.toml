@@ -1,0 +1,8 @@
+[deployment]
+port = 8000
+
+[public_keys]
+public_key = "TaxyY3G2A3pw7t2YSNtp88rRMV2G2GAasfldraakCZ8="
+
+[private_keys]
+private_key = "pIwwiWYMzK1vd/aPWQWYW254d6RaqVY1M3ocUiFxKY8="

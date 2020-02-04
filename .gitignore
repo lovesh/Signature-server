@@ -1,0 +1,12 @@
+# Configuration
+Config.toml
+
+# IDE
+.idea/
+
+# Build artifacts
+/target
+
+# Temporary files
+**/*.rs.bk
+
